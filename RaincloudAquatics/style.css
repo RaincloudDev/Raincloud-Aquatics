@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    flex-flow:row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.headerList{
+    
+    display: flex;
+    flex-flow: column wrap;
+  
+}
+
+.imagefoo{
+    aspect-ratio: 4/9;
+    min-height: 300px;
+    min-width: 100%;
+    border: 2px solid black;
+    margin: 0px;
+}
+
+/*Tech page*/
+.techMain{
+    display: flex;
+    flex-flow: row;
+}
